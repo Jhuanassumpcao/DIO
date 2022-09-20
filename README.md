@@ -1,7 +1,7 @@
 # Projeto Conceitual de Banco de Dados
 
 ## Objetivo
-Trazer todos os exemplos mostrados e concluir o desafio de refinar o projeto de E-Commerce(que está no final do README)
+Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações; Pagamento – Pode ter cadastrado mais de uma forma de pagamento; Entrega – Possui status e código de rastreio;
 
 
 ### Ordem de Serviço

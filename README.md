@@ -1,5 +1,7 @@
-# Desafio
+# Projeto Conceitual de Banco de Dados
 
+## Objetivo
+Trazer todos os exemplos mostrados e concluir o desafio de refinar o projeto de E-Commerce(que está no final do README)
 
 
 ### Ordem de Serviço

@@ -14,5 +14,5 @@ Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas infor
 ![E-commerce](https://user-images.githubusercontent.com/85958775/191366414-2ea11d99-1f9b-4438-ab84-5ecac7c60d42.png)
 
 ### Desafio E-Commerce
-
+![E-commerceRefinado](https://user-images.githubusercontent.com/85958775/191372691-85949754-7736-4f50-8b8b-e1518c5101c3.png)
 
